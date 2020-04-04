@@ -1,8 +1,8 @@
 # remote-jogging
 
-Enjoy jogging at home with Joy-Con and Google Street View
+Enjoy jogging (or silent-jogging) at home with Joy-Con and Google Street View
 
-https://twitter.com/yos1up/status/1203583739646758913?s=20
+![demo](https://raw.githubusercontent.com/yos1up/remote-jogging/master/misc/demo.gif)
 
 ## Requirements
 
@@ -37,3 +37,8 @@ https://twitter.com/yos1up/status/1203583739646758913?s=20
 4. Make sure that your view goes forward every time you press the up-arrow key
 
 5. `python main.py`
+
+6. Enjoy jogging or silent-jogging (= light-squatting)
+
+    - The developper is enjoying with silent-jogging actually, and hasn't tried to do with (normal) jogging. So normal jogging is not tested. If this program does not work well with jogging, please try silent-jogging instead.
+    
