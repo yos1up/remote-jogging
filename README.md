@@ -1,4 +1,4 @@
-![日本語はこちら](#使い方)
+![日本語はこちら](#日本語版説明)
 
 # remote-jogging
 
@@ -38,7 +38,7 @@ Enjoy jogging (or silent-jogging) at home with Joy-Con and Google Street View
 
 4. `python main.py`
 
-5. Let your view go forward once, by clicking ![the button shown over the street](https://raw.githubusercontent.com/yos1up/remote-jogging/master/misc/sv.png), then make sure that your view goes forward every time you press the up-arrow key
+5. Let your view go forward once, by clicking ![the button shown over the street](https://github.com/yos1up/remote-jogging/master/misc/sv.png), then make sure that your view goes forward every time you press the up-arrow key
 
 6. Enjoy jogging or silent-jogging (= light-squatting)
 
@@ -48,7 +48,7 @@ Enjoy jogging (or silent-jogging) at home with Joy-Con and Google Street View
     
 ----
     
-# remote-jogging
+# 日本語版説明
 
 Joy-Con とストリートビューで在宅ジョギング（または在宅サイレントジョギング）
 
@@ -86,7 +86,7 @@ Joy-Con とストリートビューで在宅ジョギング（または在宅サ
 
 4. `python main.py` 
 
-5. ![道路上に表示される矢印ボタン](https://raw.githubusercontent.com/yos1up/remote-jogging/master/misc/sv.png)をクリックして，ストリートビューの画面を一度前進させる．そのあと，上キーを押すたびにストリートビューの画面がさらに前進することを確認する
+5. ![道路上に表示される矢印ボタン](https://github.com/yos1up/remote-jogging/master/misc/sv.png)をクリックして，ストリートビューの画面を一度前進させる．そのあと，上キーを押すたびにストリートビューの画面がさらに前進することを確認する
 
 6. ジョギングを開始する．もしくはサイレントジョギング（= 軽いスクワット）を開始する．
 
