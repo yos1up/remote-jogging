@@ -1,6 +1,6 @@
 [日本語はこちら](#日本語版説明)
 
-# remote-jogging
+# remote-jogging (street-view-jogging)
 
 Enjoy jogging (or silent-jogging) at home with Joy-Con and Google Street View
 
