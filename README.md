@@ -38,7 +38,7 @@ Enjoy jogging (or silent-jogging) at home with Joy-Con and Google Street View
 
 4. `python main.py`
 
-5. Let your view go forward once, by clicking [the button shown over the street](https://github.com/yos1up/remote-jogging/blob/master/misc/sv.png), then make sure that your view goes forward every time you press the up-arrow key
+5. Let your view go forward once, by clicking [the button shown over the street](https://github.com/yos1up/remote-jogging/blob/master/misc/sv.png), then make sure that your view goes forward further every time you press the up-arrow key
 
 6. Enjoy jogging or silent-jogging (= light-squatting)
 
