@@ -23,6 +23,8 @@ Enjoy jogging (or silent-jogging) at home with Joy-Con and Google Street View
     - joycon-python
 
     - pyautogui
+    
+    - numpy
 
 ## Usage
 
@@ -71,7 +73,9 @@ Joy-Con とストリートビューで在宅ジョギング（または在宅サ
     - joycon-python
 
     - pyautogui
-    
+
+    - numpy
+
 ## 使い方
 
 1. Joy-Con(L) を Mac とペアリングする
